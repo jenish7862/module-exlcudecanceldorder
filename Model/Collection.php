@@ -1,6 +1,6 @@
 <?php
 
-namespace Kgkrunch\ExlcudeCanceldorder\Model;
+namespace Kgkrunch\ExcludeCanceledorder\Model;
 
 use Magento\Framework\DB\Select;
 

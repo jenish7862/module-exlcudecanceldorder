@@ -15,7 +15,7 @@
     },
 	"autoload": {
          "psr-4": {
-            "Kgkrunch\\ExcludeCanceldorder\\": ""
+            "Kgkrunch\\ExcludeCanceledorder\\": ""
         },
         "files": [
             "registration.php"

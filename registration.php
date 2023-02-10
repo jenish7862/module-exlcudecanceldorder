@@ -2,6 +2,6 @@
  
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Kgkrunch_ExlcudeCanceldorder',
+    'Kgkrunch_ExcludeCanceledorder',
     __DIR__
 );
